@@ -5,5 +5,5 @@ Im Danish, a Software Engineer with a strong foundation in JavaScript and Python
 ## Skills: 
 -HTML, CSS, PostgresSQL, AWS s3, Express, npm, SQL, Git, Node 
 
-##⚡ Fun fact:
+## ⚡ Fun fact:
 - I've held positions as a Project Manager, Account Manager, Goldsmith, Dental Laboratory Technician, and CAD/CAM specialist before my Software Engineering journey.
