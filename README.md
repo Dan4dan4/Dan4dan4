@@ -3,7 +3,7 @@
 Im Danish, a Software Engineer with a strong foundation in JavaScript and Python, trained from App Academy. I’m passionate about building scalable and efficient applications, and I'm experienced with using frameworks like React/Redux for the frontend and Flask/SQLAlchemy for the backend. My goal is to deliver high-performance, user-friendly solutions, and I’m always eager to expand my knowledge and grow as a developer.
 
 ## ♦️ Skills: 
-- HTML, CSS, PostgresSQL, AWS s3, Express, npm, SQL, Git, Node 
+- Javascript, Python, React, Redux, Flask, HTML, CSS, PostgresSQL, AWS s3, Express, npm, SQL, Git, Node 
 
 ## ♣️ Projects (pinned below):
 ### [Sol](https://capstone-ybmg.onrender.com/):
