@@ -1,14 +1,13 @@
-## Hi there 👋
+## Hi there 👋, Welcome to my page. Please make sure to check out my portfolio page at danishmohammad.com 
+
 Im Danish, a Software Engineer with a strong foundation in JavaScript and Python, trained from App Academy. I’m passionate about building scalable and efficient applications, and I'm experienced with using frameworks like React/Redux for the frontend and Flask/SQLAlchemy for the backend. My goal is to deliver high-performance, user-friendly solutions, and I’m always eager to expand my knowledge and grow as a developer.
 
-My other skills: 
-  HTML, CSS, PostgresSQL, AWS s3, Express, npm, SQL, Git, Node 
+## Skills: 
 
-- 🌱 I’m currently learning 
+-HTML, CSS, PostgresSQL, AWS s3, Express, npm, SQL, Git, Node 
+
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
