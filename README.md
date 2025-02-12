@@ -1,11 +1,11 @@
-## ♠️ Welcome to my page. Please check out my portfolio page at [danishmohammad.com](https://danishmohammad.com)
+## ♠️ Welcome to my page.
 
 Im Danish, a Software Engineer with a strong foundation in JavaScript and Python, trained from App Academy. I’m passionate about building scalable and efficient applications, and I'm experienced with using frameworks like React/Redux for the frontend and Flask/SQLAlchemy for the backend. My goal is to deliver high-performance, user-friendly solutions, and I’m always eager to expand my knowledge and grow as a developer.
 
 ## ♦️ Skills: 
 - Javascript, Python, React, Redux, Flask, HTML, CSS, PostgresSQL, AWS s3, Express, npm, SQL, Git, Node 
 
-## ♣️ Projects (pinned below):
+## ♣️ Projects:
 ### [Sol](https://capstone-ybmg.onrender.com/):
 - Solo project built in 2weeks
 - A dynamic trading application that offers real-time stock data and powerful tools for managing investments, ensuring an intuitive and efficient user experience.
