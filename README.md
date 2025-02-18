@@ -12,12 +12,12 @@ Im Danish, a Software Engineer with a strong foundation in JavaScript and Python
 - Frontend: Javascript + React + Redux + API's + HTML + CSS
 - Backend: Python + SQLAlcehmy + Flask + APScheduler
 ### [Melody](https://melody-63tg.onrender.com/):
-- Duo project build in 2weeks 
+- Duo project built in 2weeks 
 - An engaging music application offering users a seamless experience for listening to and managing favorite tracks and albums.
 - Frontend: Javascript + React + Redux + WaveSurfer + HTML + CSS
 - Backend: Python + SQLAlcehmy + Flask + AWS s3
 ### [Portfolio Page](https://danishmohammad.com):
-- Solo project build in 1day 
+- Solo project built in 1day 
 - A portfolio page created using no boiler plate and deployed on a personal domain.
 - Frontend: Javascript + HTML + CSS
 
